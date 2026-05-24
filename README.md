@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🤖 AI & Data Science Portfolio
 
-<!--
-**aryanwankhade01/aryanwankhade01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository! This is a curated collection of data science projects, machine learning models, and academic labs I've built during my studies at **P.R. Pote Patil College of Engineering**.
 
-Here are some ideas to get you started:
+The goal of this repository is to demonstrate my skills in data preprocessing, exploratory data analysis (EDA), predictive modeling, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** Python (NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn)
+* **Tools & Platforms:** Jupyter Notebook, VS Code, Git/GitHub
+* **Core Concepts:** Exploratory Data Analysis, Supervised Learning, Data Cleaning
+
+
+---
+
+## 📈 Current Learning Goals
+* 🧠 Deepening my understanding of Deep Learning and Neural Networks.
+* 📊 Learning SQL for advanced data querying.
+
+---
+
+## 📫 Connect with Me
+* **LinkedIn:** 
+* **Email:** aryanwankhade2006@gmail.com
